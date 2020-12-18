@@ -1,5 +1,6 @@
 n = int(input('Please input how many cards on the table: '))
 cards = list(map(int, input('Please input the values on the cards: ').split()))
+print(cards)
 serj = 0
 dima = 0
 i = 0
